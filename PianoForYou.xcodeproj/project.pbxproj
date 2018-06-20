@@ -14,6 +14,7 @@
 		BCA0871420CED8BD00847A7A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BCA0871220CED8BD00847A7A /* LaunchScreen.storyboard */; };
 		BCA0871F20CED8BD00847A7A /* PianoForYouTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BCA0871E20CED8BD00847A7A /* PianoForYouTests.swift */; };
 		BCA0872A20CED8BD00847A7A /* PianoForYouUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BCA0872920CED8BD00847A7A /* PianoForYouUITests.swift */; };
+		BCA0873E20CEDCAF00847A7A /* KeyCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = BCA0873D20CEDCAF00847A7A /* KeyCollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		BCA0872520CED8BD00847A7A /* PianoForYouUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PianoForYouUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BCA0872920CED8BD00847A7A /* PianoForYouUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PianoForYouUITests.swift; sourceTree = "<group>"; };
 		BCA0872B20CED8BD00847A7A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BCA0873D20CEDCAF00847A7A /* KeyCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KeyCollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				BCA0871020CED8BD00847A7A /* Assets.xcassets */,
 				BCA0871220CED8BD00847A7A /* LaunchScreen.storyboard */,
 				BCA0871520CED8BD00847A7A /* Info.plist */,
+				BCA0873D20CEDCAF00847A7A /* KeyCollectionViewCell.swift */,
 			);
 			path = PianoForYou;
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 			files = (
 				BCA0870C20CED8BC00847A7A /* ViewController.swift in Sources */,
 				BCA0870A20CED8BC00847A7A /* AppDelegate.swift in Sources */,
+				BCA0873E20CEDCAF00847A7A /* KeyCollectionViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
